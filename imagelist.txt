@@ -1,0 +1,226 @@
+NHLAvalanche,NHL/NHLAvalanche.gif,NHL,Colorado Avalanche
+NHLBlackhawks,NHL/NHLBlackhawks.gif,NHL,Chicago Blackhawks
+NHLBlueJackets,NHL/NHLBlueJackets.gif,NHL,Columbus Blue Jackets
+NHLBlues,NHL/NHLBlues.gif,NHL,St. Louis Blues
+NHLBruins,NHL/NHLBruins.gif,NHL,Boston Bruins
+NHLCanadiens,NHL/NHLCanadiens.gif,NHL,Montreal Canadiens
+NHLCanucks,NHL/NHLCanucks.gif,NHL,Vancouver Canucks
+NHLCapitals,NHL/NHLCapitals.gif,NHL,Washington Capitals
+NHLCoyotes,NHL/NHLCoyotes.gif,NHL,Phoenix Coyotes
+NHLDevils,NHL/NHLDevils.gif,NHL,New Jersey Devils
+NHLDucks,NHL/NHLDucks.gif,NHL,Anaheim Ducks
+NHLFlames,NHL/NHLFlames.gif,NHL,Calgary Flames
+NHLFlyers,NHL/NHLFlyers.gif,NHL,Philadelphia Flyers
+NHLHurricanes,NHL/NHLHurricanes.gif,NHL,Carolina Hurricanes
+NHLIslanders,NHL/NHLIslanders.gif,NHL,New York Islanders
+NHLJets,NHL/NHLJets.gif,NHL,Winnipeg Jets
+NHLKings,NHL/NHLKings.gif,NHL,Los Angeles Kings
+NHLLeafs,NHL/NHLLeafs.gif,NHL,Toronto Maple Leafs
+NHLLightning,NHL/NHLLightning.gif,NHL,Tampa Bay Lightning
+NHLNHL,NHL/NHLNHL.gif,NHL,NHL Logo
+NHLOilers,NHL/NHLOilers.gif,NHL,Edmonton Oilers
+NHLPanthers,NHL/NHLPanthers.gif,NHL,Florida Panthers
+NHLPenguins,NHL/NHLPenguins.gif,NHL,Pittsburgh Penguins
+NHLPredators,NHL/NHLPredators.gif,NHL,Nashville Predators
+NHLRangers,NHL/NHLRangers.gif,NHL,New York Rangers
+NHLRedWings,NHL/NHLRedWings.gif,NHL,Detroit Red Wings
+NHLSabres,NHL/NHLSabres.gif,NHL,Buffalo Sabres
+NHLSenators,NHL/NHLSenators.gif,NHL,Ottawa Senators
+NHLSharks,NHL/NHLSharks.gif,NHL,San Jose Sharks
+NHLStars,NHL/NHLStars.gif,NHL,Dallas Stars
+NHLWild,NHL/NHLWild.gif,NHL,Minnesota Wild
+MLBAngels,MLB/MLBAngels.gif,MLB,Anaheim Angels
+MLBAstros,MLB/MLBAstros.gif,MLB,Houston Astros
+MLBAthletics,MLB/MLBAthletics.gif,MLB,Oakland Athletics
+MLBBlueJays,MLB/MLBBlueJays.gif,MLB,Toronto Blue Jays
+MLBBraves,MLB/MLBBraves.gif,MLB,Atlanta Braves
+MLBBrewers,MLB/MLBBrewers.gif,MLB,Milwauke Brewers
+MLBCardinals,MLB/MLBCardinals.gif,MLB,St. Louis Cardinals
+MLBCubs,MLB/MLBCubs.gif,MLB,Chicago Cubs
+MLBDiamondbacks,MLB/MLBDiamondbacks.gif,MLB,Arizona Diamondbacks
+MLBDodgers,MLB/MLBDodgers.gif,MLB,Los Angeles Dodgers
+MLBGiants,MLB/MLBGiants.gif,MLB,San Francisco Giants
+MLBIndians,MLB/MLBIndians.gif,MLB,Cleveland Indians
+MLBMariners,MLB/MLBMariners.gif,MLB,Seattle Mariners
+MLBMarlins,MLB/MLBMarlins.gif,MLB,Florida Marlins
+MLBMets,MLB/MLBMets.gif,MLB,New York Mets
+MLBMLB,MLB/MLBMLB.gif,MLB,MLB Logo
+MLBNationals,MLB/MLBNationals.gif,MLB,Washington Nationals
+MLBOrioles,MLB/MLBOrioles.gif,MLB,Baltimore Orioles
+MLBPadres,MLB/MLBPadres.gif,MLB,San Diego Padres
+MLBPhillies,MLB/MLBPhillies.gif,MLB,Philadelphia Phillies
+MLBPirates,MLB/MLBPirates.gif,MLB,Pittsburgh Pirates
+MLBRangers,MLB/MLBRangers.gif,MLB,Texas Rangers
+MLBRays,MLB/MLBRays.gif,MLB,Tampa Bay Rays
+MLBReds,MLB/MLBReds.gif,MLB,Cincinnati Reds
+MLBRedSox,MLB/MLBRedSox.gif,MLB,Boston Red Sox
+MLBRockies,MLB/MLBRockies.gif,MLB,Colorado Rockies
+MLBRoyals,MLB/MLBRoyals.gif,MLB,Kansas City Royals
+MLBTigers,MLB/MLBTigers.gif,MLB,Detroit Tigers
+MLBTwins,MLB/MLBTwins.gif,MLB,Minnesota Twins
+MLBWhiteSox,MLB/MLBWhiteSox.gif,MLB,Chicago White Sox
+MLBYankees,MLB/MLBYankees.gif,MLB,New York Yankees
+NBA76ers,NBA/NBA76ers.gif,NBA,Philadelphia 76ers
+NBABobcats,NBA/NBABobcats.gif,NBA,Charlotte Bobcats
+NBABucks,NBA/NBABucks.gif,NBA,Milwauke Bucks
+NBABulls,NBA/NBABulls.gif,NBA,Chicago Bulls
+NBACavaliers,NBA/NBACavaliers.gif,NBA,Cleveland Cavaliers
+NBACeltics,NBA/NBACeltics.gif,NBA,Boston Celtics
+NBAClippers,NBA/NBAClippers.gif,NBA,Los Angeles Clippers
+NBAGrizzlies,NBA/NBAGrizzlies.gif,NBA,Memphis Grizzlies
+NBAHawks,NBA/NBAHawks.gif,NBA,Atlanta Hawks
+NBAHeat,NBA/NBAHeat.gif,NBA,Miami Heat
+NBAHornets,NBA/NBAHornets.gif,NBA,New Orleans Hornets
+NBAJazz,NBA/NBAJazz.gif,NBA,Utah Jazz
+NBAKings,NBA/NBAKings.gif,NBA,Sacramento Kings
+NBAKnicks,NBA/NBAKnicks.gif,NBA,New York Knicks
+NBALakers,NBA/NBALakers.gif,NBA,Los Angeles Lakers
+NBAMagic,NBA/NBAMagic.gif,NBA,Orlando Magic
+NBAMavericks,NBA/NBAMavericks.gif,NBA,Dallas Mavericks
+NBANBA,NBA/NBANBA.gif,NBA,NBA Logo
+NBANets,NBA/NBANets.gif,NBA,New Jersey Nets
+NBANuggets,NBA/NBANuggets.gif,NBA,Denver Nuggets
+NBAPacers,NBA/NBAPacers.gif,NBA,Indiana Pacers
+NBAPistons,NBA/NBAPistons.gif,NBA,Detroit Pistons
+NBARaptors,NBA/NBARaptors.gif,NBA,Toronto Raptors
+NBARockets,NBA/NBARockets.gif,NBA,Houston Rockets
+NBASpurs,NBA/NBASpurs.gif,NBA,San Antonio Spurs
+NBASuns,NBA/NBASuns.gif,NBA,Phoenix Suns
+NBAThunder,NBA/NBAThunder.gif,NBA,Oklahoma City Thunder
+NBATimberwolves,NBA/NBATimberwolves.gif,NBA,Minnesota Timberwolves
+NBATrailBlazers,NBA/NBATrailBlazers.gif,NBA,Portland Trail Blazers
+NBAWarriors,NBA/NBAWarriors.gif,NBA,Golden State Warriors
+NBAWizards,NBA/NBAWizards.gif,NBA,Washington Wizards
+NFL49ers,NFL/NFL49ers.gif,NFL,San Francisco 49ers
+NFLBears,NFL/NFLBears.gif,NFL,Chicago Bears
+NFLBengals,NFL/NFLBengals.gif,NFL,Cincinnati Bengals
+NFLBills,NFL/NFLBills.gif,NFL,Buffalo Bills
+NFLBroncos,NFL/NFLBroncos.gif,NFL,Denver Broncos
+NFLBrowns,NFL/NFLBrowns.gif,NFL,Cleveland Browns
+NFLBuccaneers,NFL/NFLBuccaneers.gif,NFL,Tampa Bay Buccaneers
+NFLCardinals,NFL/NFLCardinals.gif,NFL,Arizona Cardinals
+NFLChargers,NFL/NFLChargers.gif,NFL,San Diego Chargers
+NFLChiefs,NFL/NFLChiefs.gif,NFL,Kansas City Chiefs
+NFLColts,NFL/NFLColts.gif,NFL,Indianapolis Colts
+NFLCowboys,NFL/NFLCowboys.gif,NFL,Dallas Cowboys
+NFLDolphins,NFL/NFLDolphins.gif,NFL,Miami Dolphins
+NFLEagles,NFL/NFLEagles.gif,NFL,Philadelphia Eagles
+NFLFalcons,NFL/NFLFalcons.gif,NFL,Atlanta Falcons
+NFLGiants,NFL/NFLGiants.gif,NFL,New York Giants
+NFLJaguars,NFL/NFLJaguars.gif,NFL,Jacksonville Jaguars
+NFLJets,NFL/NFLJets.gif,NFL,New York Jets
+NFLLions,NFL/NFLLions.gif,NFL,Detroit Lions
+NFLNFL,NFL/NFLNFL.gif,NFL,NFL Logo
+NFLPackers,NFL/NFLPackers.gif,NFL,Green Bay Packers
+NFLPanthers,NFL/NFLPanthers.gif,NFL,Carolina Panthers
+NFLPatriots,NFL/NFLPatriots.gif,NFL,New England Patroits
+NFLRaiders,NFL/NFLRaiders.gif,NFL,Oakland Raiders
+NFLRams,NFL/NFLRams.gif,NFL,St. Louis Rams
+NFLRavens,NFL/NFLRavens.gif,NFL,Baltimore Ravens
+NFLRedskins,NFL/NFLRedskins.gif,NFL,Washington Redskins
+NFLSaints,NFL/NFLSaints.gif,NFL,New Orleans Saints
+NFLSeahawks,NFL/NFLSeahawks.gif,NFL,Seattle Seahawks
+NFLSteelers,NFL/NFLSteelers.gif,NFL,Pittsburgh Steelers
+NFLTexans,NFL/NFLTexans.gif,NFL,Houston Texans
+NFLTitans,NFL/NFLTitans.gif,NFL,Tennessee Titans
+NFLVikings,NFL/NFLVikings.gif,NFL,Minnesota Vikings
+SOCac-milan,Soccer/ac-milan.gif,Soccer,AC Milan
+SOCajax,Soccer/ajax.gif,Soccer,Ajax
+SOCarsenal,Soccer/arsenal.gif,Soccer,Arsenal
+SOCaston-villa,Soccer/aston-villa.gif,Soccer,Aston Villa
+SOCatletico-madrid,Soccer/atletico-madrid.gif,Soccer,Atletico Madrid
+SOCbarcelona,Soccer/barcelona.gif,Soccer,Barcelona
+SOCbarnsley,Soccer/barnsley.gif,Soccer,Barnsley
+SOCbayer-leverkusen,Soccer/bayer-leverkusen.gif,Soccer,Bayer 04 Leverkusen
+SOCbayern-munich,Soccer/bayern-munich.gif,Soccer,Bayern Munchen
+SOCbenfica,Soccer/benfica.gif,Soccer,Benfica
+SOCbestikas,Soccer/bestikas.gif,Soccer,Besiktas
+SOCbirmingham,Soccer/birmingham.gif,Soccer,Birmingham City
+SOCblackburn,Soccer/blackburn.gif,Soccer,Blackburn Rovers
+SOCboca-juniors,Soccer/boca-juniors.gif,Soccer,Boca Juniors
+SOCbolton,Soccer/bolton.gif,Soccer,Bolton Wanderers
+SOCborussia-dortmund,Soccer/borussia-dortmund.gif,Soccer,Borussia Dortmund
+SOCbrazil,Soccer/brazil.gif,Soccer,Brasil
+SOCceltic,Soccer/celtic.gif,Soccer,Celtic
+SOCchelsea,Soccer/chelsea.gif,Soccer,Chelsea
+SOCchicago-fire,Soccer/chicago-fire.gif,Soccer,Chicago Fire
+SOCchivas,Soccer/chivas.gif,Soccer,Chivas
+SOCclub-america,Soccer/club-america.gif,Soccer,Club America
+SOCcolorado-rapids,Soccer/colorado-rapids.gif,Soccer,Colorado Rapids
+SOCcolumbus-crew,Soccer/columbus-crew.gif,Soccer,Columbus Crew
+SOCcoventry,Soccer/coventry.gif,Soccer,Coventry City
+SOCcruz-azul,Soccer/cruz-azul.gif,Soccer,Cruz Azul
+SOCdc-united,Soccer/dc-united.gif,Soccer,DC United
+SOCdinamo-zagreb,Soccer/dinamo-zagreb.gif,Soccer,Dinamo Zagreb
+SOCeverton,Soccer/everton.gif,Soccer,Everton
+SOCfc-copenhagen,Soccer/fc-copenhagen.gif,Soccer,FC Kobenhavn
+SOCfc-dallas,Soccer/fc-dallas.gif,Soccer,FC Dallas
+SOCfc-porto,Soccer/fc-porto.gif,Soccer,FC Porto
+SOCfenerbahce,Soccer/fenerbahce.gif,Soccer,Fenerbahce
+SOCfeyenoord,Soccer/feyenoord.gif,Soccer,Feyenoord
+SOCfiorentina,Soccer/fiorentina.gif,Soccer,Fiorentina
+SOCfulham,Soccer/fulham.gif,Soccer,Fulham
+SOCgalatasaray,Soccer/galatasaray.gif,Soccer,Galatasaray
+SOCgermany,Soccer/germany.gif,Soccer,Germany
+SOChajduk-split,Soccer/hajduk-split.gif,Soccer,Hajduk Split
+SOChamburg,Soccer/hamburg.gif,Soccer,Hamburger SV
+SOCholland,Soccer/holland.gif,Soccer,Holland
+SOChouston-dynamo,Soccer/houston-dynamo.gif,Soccer,Houston Dynamo
+SOCinter,Soccer/inter.gif,Soccer,Internazionale
+SOCireland,Soccer/ireland.gif,Soccer,Republic of Ireland
+SOCjuventus,Soccer/juventus.gif,Soccer,Juventus
+SOCla-galaxy,Soccer/la-galaxy.gif,Soccer,LA Galaxy
+SOCleeds,Soccer/leeds.gif,Soccer,Leeds United
+SOCleicester,Soccer/leicester.gif,Soccer,Leicester City
+SOCliverpool,Soccer/liverpool.gif,Soccer,Liverpool
+SOClyon,Soccer/lyon.gif,Soccer,Olympique Lyonnais
+SOCman-city,Soccer/man-city.gif,Soccer,Manchester City
+SOCman-utd,Soccer/man-utd.gif,Soccer,Manchester United
+SOCmexico,Soccer/mexico.gif,Soccer,Mexico
+SOCmiddlesboro,Soccer/middlesboro.gif,Soccer,Middlesbrough
+SOCmonterrey,Soccer/monterrey.gif,Soccer,Monterrey
+SOCmontreal-impact,Soccer/montreal-impact.gif,Soccer,Montreal Impact
+SOCnapoli,Soccer/napoli.gif,Soccer,Napoli
+SOCnew-england-revolution,Soccer/new-england-revolution.gif,Soccer,New England Revolution
+SOCnew-york-red-bulls,Soccer/new-york-red-bulls.gif,Soccer,New York Red Bulls
+SOCnewcastle,Soccer/newcastle.gif,Soccer,Newcastle United
+SOCnorwich,Soccer/norwich.gif,Soccer,Norwich City
+SOCnottm-forest,Soccer/nottm-forest.gif,Soccer,Nottingham Forest
+SOCparis-sg,Soccer/paris-sg.gif,Soccer,Paris Saint-Germain
+SOCphiladelphia-union,Soccer/philadelphia-union.gif,Soccer,Philadelphia Union
+SOCportland-timbers,Soccer/portland-timbers.gif,Soccer,Portland Timbers
+SOCportsmouth,Soccer/portsmouth.gif,Soccer,Portsmouth
+SOCpsv,Soccer/psv.gif,Soccer,PSV Eindhoven
+SOCpumas,Soccer/pumas.gif,Soccer,Pumas
+SOCqpr,Soccer/qpr.gif,Soccer,Queens Park Rangers
+SOCrangers,Soccer/rangers.gif,Soccer,Rangers
+SOCreading,Soccer/reading.gif,Soccer,Reading
+SOCreal-madrid,Soccer/real-madrid.gif,Soccer,Real Madrid
+SOCreal-salt-lake,Soccer/real-salt-lake.gif,Soccer,Real Salt Lake
+SOCriver-plate,Soccer/river-plate.gif,Soccer,River Plate
+SOCroma,Soccer/roma.gif,Soccer,AS Roma
+SOCrosenborg,Soccer/rosenborg.gif,Soccer,Rosenborg
+SOCsan-jose-earthquakes,Soccer/san-jose-earthquakes.gif,Soccer,San Jose Earthquakes
+SOCsao-paulo,Soccer/sao-paulo.gif,Soccer,Sao Paulo
+SOCseattle-sounders,Soccer/seattle-sounders.gif,Soccer,Seattle Sounders
+SOCsheff-wed,Soccer/sheff-wed.gif,Soccer,Sheffield Wednesday
+SOCsouthampton,Soccer/southampton.gif,Soccer,Southampton
+SOCsporting-club,Soccer/sporting-club.gif,Soccer,Sporting Clube de Portugal
+SOCsporting-kc,Soccer/sporting-kc.gif,Soccer,Sporting KC
+SOCst-pauli,Soccer/st-pauli.gif,Soccer,FC St. Pauli
+SOCstoke,Soccer/stoke.gif,Soccer,Stoke City
+SOCstuttgart,Soccer/stuttgart.gif,Soccer,VfB Stuttgart
+SOCsunderland,Soccer/sunderland.gif,Soccer,Sunderland
+SOCswansea,Soccer/swansea.gif,Soccer,Swansea City
+SOCtigres,Soccer/tigres.gif,Soccer,Tigres
+SOCtoronto-fc,Soccer/toronto-fc.gif,Soccer,Toronto FC
+SOCtottenham,Soccer/tottenham.gif,Soccer,Tottenham Hotspur
+SOCusmnt,Soccer/usmnt.gif,Soccer,USMNT
+SOCvalencia,Soccer/valencia.gif,Soccer,Valencia
+SOCvancouver-whitecaps,Soccer/vancouver-whitecaps.gif,Soccer,Vancouver Whitecaps
+SOCvillarreal,Soccer/villarreal.gif,Soccer,Villarreal
+SOCwellington-phoenix,Soccer/wellington-phoenix.gif,Soccer,Wellington Phoenix
+SOCwerder-bremen,Soccer/werder-bremen.gif,Soccer,Werder Bremen
+SOCwest-brom,Soccer/west-brom.gif,Soccer,West Bromwich Albion
+SOCwest-ham,Soccer/west-ham.gif,Soccer,West Ham United
+SOCwolves,Soccer/wolves.gif,Soccer,Wolves
