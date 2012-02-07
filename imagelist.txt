@@ -1,129 +1,129 @@
-NHLAvalanche,NHL/NHLAvalanche.gif,NHL,Colorado Avalanche
-NHLBlackhawks,NHL/NHLBlackhawks.gif,NHL,Chicago Blackhawks
-NHLBlueJackets,NHL/NHLBlueJackets.gif,NHL,Columbus Blue Jackets
-NHLBlues,NHL/NHLBlues.gif,NHL,St. Louis Blues
-NHLBruins,NHL/NHLBruins.gif,NHL,Boston Bruins
-NHLCanadiens,NHL/NHLCanadiens.gif,NHL,Montreal Canadiens
-NHLCanucks,NHL/NHLCanucks.gif,NHL,Vancouver Canucks
-NHLCapitals,NHL/NHLCapitals.gif,NHL,Washington Capitals
-NHLCoyotes,NHL/NHLCoyotes.gif,NHL,Phoenix Coyotes
-NHLDevils,NHL/NHLDevils.gif,NHL,New Jersey Devils
-NHLDucks,NHL/NHLDucks.gif,NHL,Anaheim Ducks
-NHLFlames,NHL/NHLFlames.gif,NHL,Calgary Flames
-NHLFlyers,NHL/NHLFlyers.gif,NHL,Philadelphia Flyers
-NHLHurricanes,NHL/NHLHurricanes.gif,NHL,Carolina Hurricanes
-NHLIslanders,NHL/NHLIslanders.gif,NHL,New York Islanders
-NHLJets,NHL/NHLJets.gif,NHL,Winnipeg Jets
-NHLKings,NHL/NHLKings.gif,NHL,Los Angeles Kings
-NHLLeafs,NHL/NHLLeafs.gif,NHL,Toronto Maple Leafs
-NHLLightning,NHL/NHLLightning.gif,NHL,Tampa Bay Lightning
-NHLNHL,NHL/NHLNHL.gif,NHL,NHL Logo
-NHLOilers,NHL/NHLOilers.gif,NHL,Edmonton Oilers
-NHLPanthers,NHL/NHLPanthers.gif,NHL,Florida Panthers
-NHLPenguins,NHL/NHLPenguins.gif,NHL,Pittsburgh Penguins
-NHLPredators,NHL/NHLPredators.gif,NHL,Nashville Predators
-NHLRangers,NHL/NHLRangers.gif,NHL,New York Rangers
-NHLRedWings,NHL/NHLRedWings.gif,NHL,Detroit Red Wings
-NHLSabres,NHL/NHLSabres.gif,NHL,Buffalo Sabres
-NHLSenators,NHL/NHLSenators.gif,NHL,Ottawa Senators
-NHLSharks,NHL/NHLSharks.gif,NHL,San Jose Sharks
-NHLStars,NHL/NHLStars.gif,NHL,Dallas Stars
-NHLWild,NHL/NHLWild.gif,NHL,Minnesota Wild
-MLBAngels,MLB/MLBAngels.gif,MLB,Anaheim Angels
-MLBAstros,MLB/MLBAstros.gif,MLB,Houston Astros
-MLBAthletics,MLB/MLBAthletics.gif,MLB,Oakland Athletics
-MLBBlueJays,MLB/MLBBlueJays.gif,MLB,Toronto Blue Jays
-MLBBraves,MLB/MLBBraves.gif,MLB,Atlanta Braves
-MLBBrewers,MLB/MLBBrewers.gif,MLB,Milwauke Brewers
-MLBCardinals,MLB/MLBCardinals.gif,MLB,St. Louis Cardinals
-MLBCubs,MLB/MLBCubs.gif,MLB,Chicago Cubs
-MLBDiamondbacks,MLB/MLBDiamondbacks.gif,MLB,Arizona Diamondbacks
-MLBDodgers,MLB/MLBDodgers.gif,MLB,Los Angeles Dodgers
-MLBGiants,MLB/MLBGiants.gif,MLB,San Francisco Giants
-MLBIndians,MLB/MLBIndians.gif,MLB,Cleveland Indians
-MLBMariners,MLB/MLBMariners.gif,MLB,Seattle Mariners
-MLBMarlins,MLB/MLBMarlins.gif,MLB,Florida Marlins
-MLBMets,MLB/MLBMets.gif,MLB,New York Mets
-MLBMLB,MLB/MLBMLB.gif,MLB,MLB Logo
-MLBNationals,MLB/MLBNationals.gif,MLB,Washington Nationals
-MLBOrioles,MLB/MLBOrioles.gif,MLB,Baltimore Orioles
-MLBPadres,MLB/MLBPadres.gif,MLB,San Diego Padres
-MLBPhillies,MLB/MLBPhillies.gif,MLB,Philadelphia Phillies
-MLBPirates,MLB/MLBPirates.gif,MLB,Pittsburgh Pirates
-MLBRangers,MLB/MLBRangers.gif,MLB,Texas Rangers
-MLBRays,MLB/MLBRays.gif,MLB,Tampa Bay Rays
-MLBReds,MLB/MLBReds.gif,MLB,Cincinnati Reds
-MLBRedSox,MLB/MLBRedSox.gif,MLB,Boston Red Sox
-MLBRockies,MLB/MLBRockies.gif,MLB,Colorado Rockies
-MLBRoyals,MLB/MLBRoyals.gif,MLB,Kansas City Royals
-MLBTigers,MLB/MLBTigers.gif,MLB,Detroit Tigers
-MLBTwins,MLB/MLBTwins.gif,MLB,Minnesota Twins
-MLBWhiteSox,MLB/MLBWhiteSox.gif,MLB,Chicago White Sox
-MLBYankees,MLB/MLBYankees.gif,MLB,New York Yankees
-NBA76ers,NBA/NBA76ers.gif,NBA,Philadelphia 76ers
-NBABobcats,NBA/NBABobcats.gif,NBA,Charlotte Bobcats
-NBABucks,NBA/NBABucks.gif,NBA,Milwauke Bucks
-NBABulls,NBA/NBABulls.gif,NBA,Chicago Bulls
-NBACavaliers,NBA/NBACavaliers.gif,NBA,Cleveland Cavaliers
-NBACeltics,NBA/NBACeltics.gif,NBA,Boston Celtics
-NBAClippers,NBA/NBAClippers.gif,NBA,Los Angeles Clippers
-NBAGrizzlies,NBA/NBAGrizzlies.gif,NBA,Memphis Grizzlies
-NBAHawks,NBA/NBAHawks.gif,NBA,Atlanta Hawks
-NBAHeat,NBA/NBAHeat.gif,NBA,Miami Heat
-NBAHornets,NBA/NBAHornets.gif,NBA,New Orleans Hornets
-NBAJazz,NBA/NBAJazz.gif,NBA,Utah Jazz
-NBAKings,NBA/NBAKings.gif,NBA,Sacramento Kings
-NBAKnicks,NBA/NBAKnicks.gif,NBA,New York Knicks
-NBALakers,NBA/NBALakers.gif,NBA,Los Angeles Lakers
-NBAMagic,NBA/NBAMagic.gif,NBA,Orlando Magic
-NBAMavericks,NBA/NBAMavericks.gif,NBA,Dallas Mavericks
-NBANBA,NBA/NBANBA.gif,NBA,NBA Logo
-NBANets,NBA/NBANets.gif,NBA,New Jersey Nets
-NBANuggets,NBA/NBANuggets.gif,NBA,Denver Nuggets
-NBAPacers,NBA/NBAPacers.gif,NBA,Indiana Pacers
-NBAPistons,NBA/NBAPistons.gif,NBA,Detroit Pistons
-NBARaptors,NBA/NBARaptors.gif,NBA,Toronto Raptors
-NBARockets,NBA/NBARockets.gif,NBA,Houston Rockets
-NBASpurs,NBA/NBASpurs.gif,NBA,San Antonio Spurs
-NBASuns,NBA/NBASuns.gif,NBA,Phoenix Suns
-NBAThunder,NBA/NBAThunder.gif,NBA,Oklahoma City Thunder
-NBATimberwolves,NBA/NBATimberwolves.gif,NBA,Minnesota Timberwolves
-NBATrailBlazers,NBA/NBATrailBlazers.gif,NBA,Portland Trail Blazers
-NBAWarriors,NBA/NBAWarriors.gif,NBA,Golden State Warriors
-NBAWizards,NBA/NBAWizards.gif,NBA,Washington Wizards
-NFL49ers,NFL/NFL49ers.gif,NFL,San Francisco 49ers
-NFLBears,NFL/NFLBears.gif,NFL,Chicago Bears
-NFLBengals,NFL/NFLBengals.gif,NFL,Cincinnati Bengals
-NFLBills,NFL/NFLBills.gif,NFL,Buffalo Bills
-NFLBroncos,NFL/NFLBroncos.gif,NFL,Denver Broncos
-NFLBrowns,NFL/NFLBrowns.gif,NFL,Cleveland Browns
-NFLBuccaneers,NFL/NFLBuccaneers.gif,NFL,Tampa Bay Buccaneers
-NFLCardinals,NFL/NFLCardinals.gif,NFL,Arizona Cardinals
-NFLChargers,NFL/NFLChargers.gif,NFL,San Diego Chargers
-NFLChiefs,NFL/NFLChiefs.gif,NFL,Kansas City Chiefs
-NFLColts,NFL/NFLColts.gif,NFL,Indianapolis Colts
-NFLCowboys,NFL/NFLCowboys.gif,NFL,Dallas Cowboys
-NFLDolphins,NFL/NFLDolphins.gif,NFL,Miami Dolphins
-NFLEagles,NFL/NFLEagles.gif,NFL,Philadelphia Eagles
-NFLFalcons,NFL/NFLFalcons.gif,NFL,Atlanta Falcons
-NFLGiants,NFL/NFLGiants.gif,NFL,New York Giants
-NFLJaguars,NFL/NFLJaguars.gif,NFL,Jacksonville Jaguars
-NFLJets,NFL/NFLJets.gif,NFL,New York Jets
-NFLLions,NFL/NFLLions.gif,NFL,Detroit Lions
-NFLNFL,NFL/NFLNFL.gif,NFL,NFL Logo
-NFLPackers,NFL/NFLPackers.gif,NFL,Green Bay Packers
-NFLPanthers,NFL/NFLPanthers.gif,NFL,Carolina Panthers
-NFLPatriots,NFL/NFLPatriots.gif,NFL,New England Patroits
-NFLRaiders,NFL/NFLRaiders.gif,NFL,Oakland Raiders
-NFLRams,NFL/NFLRams.gif,NFL,St. Louis Rams
-NFLRavens,NFL/NFLRavens.gif,NFL,Baltimore Ravens
-NFLRedskins,NFL/NFLRedskins.gif,NFL,Washington Redskins
-NFLSaints,NFL/NFLSaints.gif,NFL,New Orleans Saints
-NFLSeahawks,NFL/NFLSeahawks.gif,NFL,Seattle Seahawks
-NFLSteelers,NFL/NFLSteelers.gif,NFL,Pittsburgh Steelers
-NFLTexans,NFL/NFLTexans.gif,NFL,Houston Texans
-NFLTitans,NFL/NFLTitans.gif,NFL,Tennessee Titans
-NFLVikings,NFL/NFLVikings.gif,NFL,Minnesota Vikings
+NHLAvalanche,NHL/NHLAvalanche.png,NHL,Colorado Avalanche
+NHLBlackhawks,NHL/NHLBlackhawks.png,NHL,Chicago Blackhawks
+NHLBlueJackets,NHL/NHLBlueJackets.png,NHL,Columbus Blue Jackets
+NHLBlues,NHL/NHLBlues.png,NHL,St. Louis Blues
+NHLBruins,NHL/NHLBruins.png,NHL,Boston Bruins
+NHLCanadiens,NHL/NHLCanadiens.png,NHL,Montreal Canadiens
+NHLCanucks,NHL/NHLCanucks.png,NHL,Vancouver Canucks
+NHLCapitals,NHL/NHLCapitals.png,NHL,Washington Capitals
+NHLCoyotes,NHL/NHLCoyotes.png,NHL,Phoenix Coyotes
+NHLDevils,NHL/NHLDevils.png,NHL,New Jersey Devils
+NHLDucks,NHL/NHLDucks.png,NHL,Anaheim Ducks
+NHLFlames,NHL/NHLFlames.png,NHL,Calgary Flames
+NHLFlyers,NHL/NHLFlyers.png,NHL,Philadelphia Flyers
+NHLHurricanes,NHL/NHLHurricanes.png,NHL,Carolina Hurricanes
+NHLIslanders,NHL/NHLIslanders.png,NHL,New York Islanders
+NHLJets,NHL/NHLJets.png,NHL,Winnipeg Jets
+NHLKings,NHL/NHLKings.png,NHL,Los Angeles Kings
+NHLLeafs,NHL/NHLLeafs.png,NHL,Toronto Maple Leafs
+NHLLightning,NHL/NHLLightning.png,NHL,Tampa Bay Lightning
+NHLNHL,NHL/NHLNHL.png,NHL,NHL Logo
+NHLOilers,NHL/NHLOilers.png,NHL,Edmonton Oilers
+NHLPanthers,NHL/NHLPanthers.png,NHL,Florida Panthers
+NHLPenguins,NHL/NHLPenguins.png,NHL,Pittsburgh Penguins
+NHLPredators,NHL/NHLPredators.png,NHL,Nashville Predators
+NHLRangers,NHL/NHLRangers.png,NHL,New York Rangers
+NHLRedWings,NHL/NHLRedWings.png,NHL,Detroit Red Wings
+NHLSabres,NHL/NHLSabres.png,NHL,Buffalo Sabres
+NHLSenators,NHL/NHLSenators.png,NHL,Ottawa Senators
+NHLSharks,NHL/NHLSharks.png,NHL,San Jose Sharks
+NHLStars,NHL/NHLStars.png,NHL,Dallas Stars
+NHLWild,NHL/NHLWild.png,NHL,Minnesota Wild
+MLBAngels,MLB/MLBAngels.png,MLB,Anaheim Angels
+MLBAstros,MLB/MLBAstros.png,MLB,Houston Astros
+MLBAthletics,MLB/MLBAthletics.png,MLB,Oakland Athletics
+MLBBlueJays,MLB/MLBBlueJays.png,MLB,Toronto Blue Jays
+MLBBraves,MLB/MLBBraves.png,MLB,Atlanta Braves
+MLBBrewers,MLB/MLBBrewers.png,MLB,Milwauke Brewers
+MLBCardinals,MLB/MLBCardinals.png,MLB,St. Louis Cardinals
+MLBCubs,MLB/MLBCubs.png,MLB,Chicago Cubs
+MLBDiamondbacks,MLB/MLBDiamondbacks.png,MLB,Arizona Diamondbacks
+MLBDodgers,MLB/MLBDodgers.png,MLB,Los Angeles Dodgers
+MLBGiants,MLB/MLBGiants.png,MLB,San Francisco Giants
+MLBIndians,MLB/MLBIndians.png,MLB,Cleveland Indians
+MLBMariners,MLB/MLBMariners.png,MLB,Seattle Mariners
+MLBMarlins,MLB/MLBMarlins.png,MLB,Florida Marlins
+MLBMets,MLB/MLBMets.png,MLB,New York Mets
+MLBMLB,MLB/MLBMLB.png,MLB,MLB Logo
+MLBNationals,MLB/MLBNationals.png,MLB,Washington Nationals
+MLBOrioles,MLB/MLBOrioles.png,MLB,Baltimore Orioles
+MLBPadres,MLB/MLBPadres.png,MLB,San Diego Padres
+MLBPhillies,MLB/MLBPhillies.png,MLB,Philadelphia Phillies
+MLBPirates,MLB/MLBPirates.png,MLB,Pittsburgh Pirates
+MLBRangers,MLB/MLBRangers.png,MLB,Texas Rangers
+MLBRays,MLB/MLBRays.png,MLB,Tampa Bay Rays
+MLBReds,MLB/MLBReds.png,MLB,Cincinnati Reds
+MLBRedSox,MLB/MLBRedSox.png,MLB,Boston Red Sox
+MLBRockies,MLB/MLBRockies.png,MLB,Colorado Rockies
+MLBRoyals,MLB/MLBRoyals.png,MLB,Kansas City Royals
+MLBTigers,MLB/MLBTigers.png,MLB,Detroit Tigers
+MLBTwins,MLB/MLBTwins.png,MLB,Minnesota Twins
+MLBWhiteSox,MLB/MLBWhiteSox.png,MLB,Chicago White Sox
+MLBYankees,MLB/MLBYankees.png,MLB,New York Yankees
+NBA76ers,NBA/NBA76ers.png,NBA,Philadelphia 76ers
+NBABobcats,NBA/NBABobcats.png,NBA,Charlotte Bobcats
+NBABucks,NBA/NBABucks.png,NBA,Milwauke Bucks
+NBABulls,NBA/NBABulls.png,NBA,Chicago Bulls
+NBACavaliers,NBA/NBACavaliers.png,NBA,Cleveland Cavaliers
+NBACeltics,NBA/NBACeltics.png,NBA,Boston Celtics
+NBAClippers,NBA/NBAClippers.png,NBA,Los Angeles Clippers
+NBAGrizzlies,NBA/NBAGrizzlies.png,NBA,Memphis Grizzlies
+NBAHawks,NBA/NBAHawks.png,NBA,Atlanta Hawks
+NBAHeat,NBA/NBAHeat.png,NBA,Miami Heat
+NBAHornets,NBA/NBAHornets.png,NBA,New Orleans Hornets
+NBAJazz,NBA/NBAJazz.png,NBA,Utah Jazz
+NBAKings,NBA/NBAKings.png,NBA,Sacramento Kings
+NBAKnicks,NBA/NBAKnicks.png,NBA,New York Knicks
+NBALakers,NBA/NBALakers.png,NBA,Los Angeles Lakers
+NBAMagic,NBA/NBAMagic.png,NBA,Orlando Magic
+NBAMavericks,NBA/NBAMavericks.png,NBA,Dallas Mavericks
+NBANBA,NBA/NBANBA.png,NBA,NBA Logo
+NBANets,NBA/NBANets.png,NBA,New Jersey Nets
+NBANuggets,NBA/NBANuggets.png,NBA,Denver Nuggets
+NBAPacers,NBA/NBAPacers.png,NBA,Indiana Pacers
+NBAPistons,NBA/NBAPistons.png,NBA,Detroit Pistons
+NBARaptors,NBA/NBARaptors.png,NBA,Toronto Raptors
+NBARockets,NBA/NBARockets.png,NBA,Houston Rockets
+NBASpurs,NBA/NBASpurs.png,NBA,San Antonio Spurs
+NBASuns,NBA/NBASuns.png,NBA,Phoenix Suns
+NBAThunder,NBA/NBAThunder.png,NBA,Oklahoma City Thunder
+NBATimberwolves,NBA/NBATimberwolves.png,NBA,Minnesota Timberwolves
+NBATrailBlazers,NBA/NBATrailBlazers.png,NBA,Portland Trail Blazers
+NBAWarriors,NBA/NBAWarriors.png,NBA,Golden State Warriors
+NBAWizards,NBA/NBAWizards.png,NBA,Washington Wizards
+NFL49ers,NFL/NFL49ers.png,NFL,San Francisco 49ers
+NFLBears,NFL/NFLBears.png,NFL,Chicago Bears
+NFLBengals,NFL/NFLBengals.png,NFL,Cincinnati Bengals
+NFLBills,NFL/NFLBills.png,NFL,Buffalo Bills
+NFLBroncos,NFL/NFLBroncos.png,NFL,Denver Broncos
+NFLBrowns,NFL/NFLBrowns.png,NFL,Cleveland Browns
+NFLBuccaneers,NFL/NFLBuccaneers.png,NFL,Tampa Bay Buccaneers
+NFLCardinals,NFL/NFLCardinals.png,NFL,Arizona Cardinals
+NFLChargers,NFL/NFLChargers.png,NFL,San Diego Chargers
+NFLChiefs,NFL/NFLChiefs.png,NFL,Kansas City Chiefs
+NFLColts,NFL/NFLColts.png,NFL,Indianapolis Colts
+NFLCowboys,NFL/NFLCowboys.png,NFL,Dallas Cowboys
+NFLDolphins,NFL/NFLDolphins.png,NFL,Miami Dolphins
+NFLEagles,NFL/NFLEagles.png,NFL,Philadelphia Eagles
+NFLFalcons,NFL/NFLFalcons.png,NFL,Atlanta Falcons
+NFLGiants,NFL/NFLGiants.png,NFL,New York Giants
+NFLJaguars,NFL/NFLJaguars.png,NFL,Jacksonville Jaguars
+NFLJets,NFL/NFLJets.png,NFL,New York Jets
+NFLLions,NFL/NFLLions.png,NFL,Detroit Lions
+NFLNFL,NFL/NFLNFL.png,NFL,NFL Logo
+NFLPackers,NFL/NFLPackers.png,NFL,Green Bay Packers
+NFLPanthers,NFL/NFLPanthers.png,NFL,Carolina Panthers
+NFLPatriots,NFL/NFLPatriots.png,NFL,New England Patroits
+NFLRaiders,NFL/NFLRaiders.png,NFL,Oakland Raiders
+NFLRams,NFL/NFLRams.png,NFL,St. Louis Rams
+NFLRavens,NFL/NFLRavens.png,NFL,Baltimore Ravens
+NFLRedskins,NFL/NFLRedskins.png,NFL,Washington Redskins
+NFLSaints,NFL/NFLSaints.png,NFL,New Orleans Saints
+NFLSeahawks,NFL/NFLSeahawks.png,NFL,Seattle Seahawks
+NFLSteelers,NFL/NFLSteelers.png,NFL,Pittsburgh Steelers
+NFLTexans,NFL/NFLTexans.png,NFL,Houston Texans
+NFLTitans,NFL/NFLTitans.png,NFL,Tennessee Titans
+NFLVikings,NFL/NFLVikings.png,NFL,Minnesota Vikings
 SOCac-milan,Soccer/ac-milan.gif,Soccer,AC Milan
 SOCajax,Soccer/ajax.gif,Soccer,Ajax
 SOCarsenal,Soccer/arsenal.gif,Soccer,Arsenal
