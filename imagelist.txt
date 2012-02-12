@@ -42,7 +42,7 @@ MLBDodgers,MLB/MLBDodgers.png,MLB,Los Angeles Dodgers
 MLBGiants,MLB/MLBGiants.png,MLB,San Francisco Giants
 MLBIndians,MLB/MLBIndians.png,MLB,Cleveland Indians
 MLBMariners,MLB/MLBMariners.png,MLB,Seattle Mariners
-MLBMarlins,MLB/MLBMarlins.png,MLB,Florida Marlins
+MLBMarlins,MLB/MLBMarlins.png,MLB,Miami Marlins
 MLBMets,MLB/MLBMets.png,MLB,New York Mets
 MLBMLB,MLB/MLBMLB.png,MLB,MLB Logo
 MLBNationals,MLB/MLBNationals.png,MLB,Washington Nationals
