@@ -37,7 +37,7 @@ MLBBraves,MLB/MLBBraves.png,MLB,Atlanta Braves
 MLBBrewers,MLB/MLBBrewers.png,MLB,Milwauke Brewers
 MLBCardinals,MLB/MLBCardinals.png,MLB,St. Louis Cardinals
 MLBCubs,MLB/MLBCubs.png,MLB,Chicago Cubs
-MLBDiamondbacks,MLB/MLBDiamondbacks.png,MLB,Arizona Diamondbacks
+MLBDiamondBacks,MLB/MLBDiamondbacks.png,MLB,Arizona Diamondbacks
 MLBDodgers,MLB/MLBDodgers.png,MLB,Los Angeles Dodgers
 MLBGiants,MLB/MLBGiants.png,MLB,San Francisco Giants
 MLBIndians,MLB/MLBIndians.png,MLB,Cleveland Indians
